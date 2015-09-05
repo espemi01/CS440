@@ -1,2 +1,6 @@
 *.class
 .*.*
+/TDL/nbproject/private/
+/JavaApplication4/nbproject/private/
+/Complex/nbproject/private/
+/TDL/build/
